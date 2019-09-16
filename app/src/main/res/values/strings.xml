@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjemplosLayout</string>
+    <string name="txtEj1">Escribe tu nombre</string>
+    <string name="edtxtEj1">Nombre</string>
+    <string name="but1Ej1">Cancelar</string>
+    <string name="but2Ej1">Aceptar</string>
+</resources>
