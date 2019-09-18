@@ -4,4 +4,12 @@
     <string name="edtxtEj1">Nombre</string>
     <string name="but1Ej1">Cancelar</string>
     <string name="but2Ej1">Aceptar</string>
+    <string name="txtEj5_1">Texto 1</string>
+    <string name="txtEj5_2">Texto 2</string>
+    <string name="txtEj5_3">Texto 3</string>
+    <string name="butEj5_1">Botón</string>
+    <string name="txtEj5_4">LOGIN</string>
+    <string name="butEj5_2">ACCEPT</string>
+    <string name="txtEj5_5">Username</string>
+    <string name="txtEj5_6">Password</string>
 </resources>
